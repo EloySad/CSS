@@ -1,5 +1,23 @@
-.header_main{
+h1{
     text-align: center;
     color: blueviolet;
     text-transform: uppercase;
+}
+.trans-text-mayus{
+    text-transform: uppercase;
+}
+#p1{
+    color: blue;
+    font-size: 30px;
+}
+#p2{
+    color: green;
+    font-size: 30px;
+}
+#p3{
+    color: rgb(255, 252, 66);
+    font-size: 30px;
+}
+body{
+    background-color: rgb(54, 54, 54);
 }
