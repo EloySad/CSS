@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.DYZ4cw3BqdG0OkSmjU6f9wHaE8?w=735&h=490&rs=1&pid=ImgDetMain);
+}
+header{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+.degradado{
+    background: linear-gradient(yellow,yellow,yellow,blue,red,red);
+    -webkit-background-clip: text;
+    color: transparent;  
+}
+.degradado-text{
+    background: linear-gradient(yellow,yellow,blue,red,red);
+    -webkit-background-clip: text;
+    color: transparent;  
+}
+.amarillo{
+    color: yellow;
+}
+.azul{
+    color: blue;
+}
+.rojo{
+    color: red;
+}
